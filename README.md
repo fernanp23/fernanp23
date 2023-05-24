@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fernando and I'm a frontend developer</p>
+<p align="left">My name is Fernando and I'm a front-end developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a front-end developer. <br>I am currently learning and improving my skills.</p>
+<p align="left">I am currently learning and improving my skills.</p>
 
 ###
 
